@@ -1,0 +1,14 @@
+pendientes pagina web
+
+*corregir las imagenes
+ponerle una de una cabaña
+otra de un hotel
+otra de una actividad tipo tirolesa
+otra de un restaurante tipo bodegon
+
+*corregir la parte de los iconos sass y otros, que vayan al final de todo (borrando la parte final de twitter) pero dejando el copyright
+
+*ver que procedimiento uso Juano con el tema de los formularios
+decidir a que mail van a ir (contacto...)
+
+*ver si puedo corregir el color del hover... 
